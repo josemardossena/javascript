@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(60, 110, 248);
+}
+header {
+    background-color: aqua;
+
+}
+div {
+    text-align: center;
+    padding: 5px ;
+    background-color: white;
+}
